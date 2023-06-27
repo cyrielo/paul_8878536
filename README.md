@@ -1,5 +1,5 @@
-Name: Paul Cyril Ologho
+Your name: Ruchika
 
-Project title: Lab 3
+Project Title: Lab 3
 
-Student ID: 8878536
+Student Id: 8878536

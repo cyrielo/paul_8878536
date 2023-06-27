@@ -1,12 +1,13 @@
 # import addition
 # import multiplication
+#
+# def test_integration():
+#     # Test multiplying the result of adding two numbers with another number
+#     assert multiplication.multiply(addition.add(2, 3), 4) == 20
+
 import calculator
-def test_integration():
-    # Test multiplying the result of adding two numbers with another number
-    assert calculator.multiply(calculator.add(2, 3), 4) == 20
-
-
-## Unit testing
+import input_handler
+import requests
 
 def test_addition():
     assert calculator.add(2, 3) == 5
